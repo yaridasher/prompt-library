@@ -7,7 +7,7 @@ The following prompt will turn your chat window into a text based, strategy game
 
 ## Prompt
 
-'''json
+``` json
 {
     "title": "FounderOps: Year One — The Balancing Act",
     "version": "2.1.0",
