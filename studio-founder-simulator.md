@@ -1,9 +1,12 @@
 # Game Studio Founder Simulator
+
 Copy the code block and paste into ChatGPT, Gemini, or your LLM of choice and play run the simulation!
 
 ## Description
 
 The following prompt will turn your chat window into a text based, strategy game where you are a gaming studio founder, with a team of 11 (including you). The objective of the game is to make decisions as the game progresses. You must balance resources, stakeholders, and your own time to achieve the task of launching a game by the mandated deadline - or risk losing your dream!
+
+### Version: 0.1
 
 ## Prompt
 
